@@ -1,0 +1,26 @@
+{
+  "name": "se_project_express",
+  "version": "1.0.0",
+  "description": "WTWR (What to Wear?): Back End — an Express and MongoDB API server for the WTWR application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "npx eslint ."
+  },
+  "author": "Devun Cooksey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2",
+    "mongoose": "^8.24.2",
+    "validator": "^13.15.35"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.10.2",
+    "eslint-plugin-import": "^2.32.0",
+    "nodemon": "^3.1.14",
+    "prettier": "^2.8.8"
+  }
+}
