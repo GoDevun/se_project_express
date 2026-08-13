@@ -20,11 +20,23 @@ All routes except signing up, signing in, and getting the list of items are prot
 - **MongoDB / Mongoose** — database and object modeling (schemas, models, custom static methods, and query helpers such as `orFail`)
 - **bcryptjs** — password hashing
 - **jsonwebtoken** — JWT-based user authorization
+- **celebrate / Joi** — validation of inbound request data
+- **winston & express-winston** — logging of requests and errors to `request.log` and `error.log`
+- **Centralized error handling** — a single error-handling middleware with custom error constructors
+- **dotenv** — environment variables for secrets in production
 - **cors** — cross-origin requests from the front end
 - **validator** — URL and email validation for the `avatar`, `imageUrl`, and `email` fields
 - **ESLint (Airbnb base config) + Prettier** — code style and formatting
 - **nodemon** — hot reload during development
 - **Postman & GitHub Actions** — API testing
+- **Google Cloud, nginx, PM2 & Let's Encrypt** — deployment, request routing, process management, and HTTPS
+
+## Accessing the Application
+
+- **Deployed back end:** https://REPLACE-WITH-YOUR-API-SUBDOMAIN
+- **Deployed front end:** https://REPLACE-WITH-YOUR-DOMAIN
+- **Front-end GitHub repository:** https://github.com/GoDevun/se_project_react
+- **Project pitch video:** REPLACE-WITH-YOUR-VIDEO-LINK
 
 ## Running the Project
 
