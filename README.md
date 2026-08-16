@@ -33,8 +33,8 @@ All routes except signing up, signing in, and getting the list of items are prot
 
 ## Accessing the Application
 
-- **Deployed back end:** https://REPLACE-WITH-YOUR-API-SUBDOMAIN
-- **Deployed front end:** https://REPLACE-WITH-YOUR-DOMAIN
+- **Deployed back end:** https://api.devun-wtwr.crabdance.com
+- **Deployed front end:** https://devun-wtwr.crabdance.com
 - **Front-end GitHub repository:** https://github.com/GoDevun/se_project_react
 - **Project pitch video:** REPLACE-WITH-YOUR-VIDEO-LINK
 
