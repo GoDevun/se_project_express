@@ -36,7 +36,7 @@ All routes except signing up, signing in, and getting the list of items are prot
 - **Deployed back end:** https://api.devun-wtwr.crabdance.com
 - **Deployed front end:** https://devun-wtwr.crabdance.com
 - **Front-end GitHub repository:** https://github.com/GoDevun/se_project_react
-- **Project pitch video:** REPLACE-WITH-YOUR-VIDEO-LINK
+- **Project pitch video:** https://www.loom.com/share/39f86ddab4b746619337483758b1b9f7
 
 ## Running the Project
 
